@@ -1,18 +1,18 @@
 {
     "name": "mainnet",
-    "messagePrefix": "ARK message:\n",
+    "messagePrefix": "egg message:\n",
     "bip32": {
         "public": 46090600,
         "private": 46089520
     },
-    "pubKeyHash": 23,
-    "nethash": "6e84d08bd299ed97c212c886c98a57e36545c8f5d645ca7eeae63a8bd62d8988",
-    "wif": 170,
+    "pubKeyHash": 33,
+    "nethash": "9c1b5395b9a4a678afe258dc2da51e68cf96952c55e8167955f4d62cd19d5d68",
+    "wif": 239,
     "slip44": 111,
     "aip20": 0,
     "client": {
-        "token": "ARK",
-        "symbol": "Ѧ",
-        "explorer": "https://explorer.ark.io"
+        "token": "egg",
+        "symbol": "e",
+        "explorer": "http://0.0.0.0:4203"
     }
 }
